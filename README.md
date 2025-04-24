@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adrika Saloni
 - 👀 I’m interested in tech and coffee
-- 🌱 I’m currently learning dsa and mern
+- 🌱 I do machine learning
 
 <!---
 Adrika-27/Adrika-27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
